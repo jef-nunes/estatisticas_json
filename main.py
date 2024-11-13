@@ -4,13 +4,6 @@ from pathlib import Path
 from typing import List
 import json
 
-# Requisitos
-# É necessário exportar cada tabela como JSON
-# através da ferramenta workbench, o qual vai gerar
-# um arquivo .json contendo uma lista de objetos onde
-# por sua vez o conteudo deste arquivo será convertido
-# em uma lista de dicionarios Python.
-
 # Estrutura para armazenar uma estatística
 class Estatistica:
     # Nome do atributo a ser analizado
@@ -49,18 +42,16 @@ def gerar_estatisticas(arquivo_json: Path):
     
     # 2. Lendo o conteúdo da fonte de dados JSON
     #
-    # A lista abaixo armazena o conteudo JSON que foi
-    # geradado no MySQL Workbench. Por padrão cada
-    # item dessa lista deve ser um dicionario Python.
+    # A lista abaixo armazena o conteudo JSON carregado de um arquivo
     lista_itens: list[dict] = []
     with open(arquivo_json, "r") as j:
         lista_itens = json.load(j)
     
     # 3. Atualizar estatísticas de maiores valores
     #
-    # Para cada item, ou seja uma linha de tabela SQL
+    # Para cada item
     for a in lista_itens:
-        # Para cada nome de chave, ou seja nome de atributo SQL
+        # Para cada nome de chave
         for b in a.keys():
             # Se não for um valor numérico, continuamos
             if isinstance(a[b], str):
@@ -85,9 +76,9 @@ def gerar_estatisticas(arquivo_json: Path):
 
     # 4. Atualizar estatísticas de valores mais repetidos
     #
-    # Para cada item, ou seja uma linha de tabela SQL
+    # Para cada item
     for a in lista_itens:
-        # Para cada nome de chave, ou seja coluna SQL
+        # Para cada nome de chave
         for b in a.keys():
             # Se a combinação entre nome de chave
             # e seu valor já existir atualizamos a frequência
