@@ -1,4 +1,4 @@
-# Gerador de estatísticas para dados em formato JSON
+# Gerador de estatísticas para fonte de dados em formato JSON
 from argparse import ArgumentParser
 from pathlib import Path
 from typing import List
