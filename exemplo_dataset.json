@@ -1,0 +1,185 @@
+[
+  {
+    "nome_comprador": "John Doe",
+    "estado_comprador": "SP",
+    "produto": "Cimento Portland 50kg",
+    "unidades": 5,
+    "valor_pago": 25.90
+  },
+  {
+    "nome_comprador": "John Doe",
+    "estado_comprador": "SP",
+    "produto": "Areia Grossa - 1m³",
+    "unidades": 3,
+    "valor_pago": 90.00
+  },
+  {
+    "nome_comprador": "John Doe",
+    "estado_comprador": "SP",
+    "produto": "Tinta Acrílica Branca - 18L",
+    "unidades": 2,
+    "valor_pago": 149.90
+  },
+  {
+    "nome_comprador": "João Almeida",
+    "estado_comprador": "SP",
+    "produto": "Cimento Portland 50kg",
+    "unidades": 10,
+    "valor_pago": 25.90
+  },
+  {
+    "nome_comprador": "Maria Oliveira",
+    "estado_comprador": "BA",
+    "produto": "Areia Fina - 1m³",
+    "unidades": 4,
+    "valor_pago": 85.00
+  },
+  {
+    "nome_comprador": "Lucas Martins",
+    "estado_comprador": "PR",
+    "produto": "Cimento Portland 50kg",
+    "unidades": 8,
+    "valor_pago": 25.90
+  },
+  {
+    "nome_comprador": "Carla Lima",
+    "estado_comprador": "RS",
+    "produto": "Tinta Acrílica Branca - 18L",
+    "unidades": 1,
+    "valor_pago": 149.90
+  },
+  {
+    "nome_comprador": "Paulo Silva",
+    "estado_comprador": "MG",
+    "produto": "Cimento Portland 50kg",
+    "unidades": 6,
+    "valor_pago": 25.90
+  },
+  {
+    "nome_comprador": "Felipe Rocha",
+    "estado_comprador": "SP",
+    "produto": "Areia Grossa - 1m³",
+    "unidades": 2,
+    "valor_pago": 90.00
+  },
+  {
+    "nome_comprador": "Bruna Lima",
+    "estado_comprador": "BA",
+    "produto": "Cimento Portland 50kg",
+    "unidades": 3,
+    "valor_pago": 25.90
+  },
+  {
+    "nome_comprador": "André Santos",
+    "estado_comprador": "RJ",
+    "produto": "Tinta Acrílica Branca - 18L",
+    "unidades": 5,
+    "valor_pago": 149.90
+  },
+  {
+    "nome_comprador": "Ricardo Fernandes",
+    "estado_comprador": "MG",
+    "produto": "Areia Fina - 1m³",
+    "unidades": 7,
+    "valor_pago": 85.00
+  },
+  {
+    "nome_comprador": "Juliana Alves",
+    "estado_comprador": "SP",
+    "produto": "Tinta Acrílica Branca - 18L",
+    "unidades": 2,
+    "valor_pago": 149.90
+  },
+  {
+    "nome_comprador": "Rodrigo Costa",
+    "estado_comprador": "RJ",
+    "produto": "Cimento Portland 50kg",
+    "unidades": 4,
+    "valor_pago": 25.90
+  },
+  {
+    "nome_comprador": "Amanda Santos",
+    "estado_comprador": "SP",
+    "produto": "Areia Grossa - 1m³",
+    "unidades": 6,
+    "valor_pago": 90.00
+  },
+  {
+    "nome_comprador": "Eduardo Martins",
+    "estado_comprador": "RS",
+    "produto": "Cimento Portland 50kg",
+    "unidades": 9,
+    "valor_pago": 25.90
+  },
+  {
+    "nome_comprador": "Renato Silva",
+    "estado_comprador": "SP",
+    "produto": "Areia Fina - 1m³",
+    "unidades": 5,
+    "valor_pago": 85.00
+  },
+  {
+    "nome_comprador": "Tatiane Gomes",
+    "estado_comprador": "RJ",
+    "produto": "Tinta Acrílica Branca - 18L",
+    "unidades": 3,
+    "valor_pago": 149.90
+  },
+  {
+    "nome_comprador": "Gustavo Oliveira",
+    "estado_comprador": "MG",
+    "produto": "Cimento Portland 50kg",
+    "unidades": 7,
+    "valor_pago": 25.90
+  },
+  {
+    "nome_comprador": "Juliana Rocha",
+    "estado_comprador": "RS",
+    "produto": "Areia Grossa - 1m³",
+    "unidades": 2,
+    "valor_pago": 90.00
+  },
+  {
+    "nome_comprador": "Marcelo Costa",
+    "estado_comprador": "SP",
+    "produto": "Tinta Acrílica Branca - 18L",
+    "unidades": 4,
+    "valor_pago": 149.90
+  },
+  {
+    "nome_comprador": "Beatriz Souza",
+    "estado_comprador": "BA",
+    "produto": "Areia Fina - 1m³",
+    "unidades": 6,
+    "valor_pago": 85.00
+  },
+  {
+    "nome_comprador": "Ricardo Lima",
+    "estado_comprador": "PR",
+    "produto": "Cimento Portland 50kg",
+    "unidades": 12,
+    "valor_pago": 25.90
+  },
+  {
+    "nome_comprador": "Fábio Pereira",
+    "estado_comprador": "MG",
+    "produto": "Tinta Acrílica Branca - 18L",
+    "unidades": 2,
+    "valor_pago": 149.90
+  },
+  {
+    "nome_comprador": "Larissa Alves",
+    "estado_comprador": "SP",
+    "produto": "Areia Grossa - 1m³",
+    "unidades": 4,
+    "valor_pago": 90.00
+  },
+  {
+    "nome_comprador": "Tiago Martins",
+    "estado_comprador": "RS",
+    "produto": "Cimento Portland 50kg",
+    "unidades": 8,
+    "valor_pago": 25.90
+  }
+]
+
